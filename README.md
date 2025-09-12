@@ -1,5 +1,3 @@
-## Hello, I'm Tazdik Wazi Orshan👋
-
 ## About Me
 I'm a Computer Science student trying to find my way into the tech industry.
 
